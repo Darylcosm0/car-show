@@ -2,7 +2,7 @@
 
 import React from "react";
 import { useState } from "react";
-import { SearchManufacture } from "./";
+import SearchManufacturer from "./SearchManufacturer";
 
 const SearchBar = () => {
   const [manufacturer, setManuFacturer] = useState("");
@@ -14,6 +14,12 @@ const SearchBar = () => {
 
   return (
     <form className="searchbar" onSubmit={handleSearch}>
+      <div className='searchbar__item'>
+        <SearchManufacturer
+          manufacturer={manufacturer}
+          setManuFacturer={setManuFacturer}
+        />
+      </div>
       
        
     </form>

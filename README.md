@@ -1,7 +1,7 @@
 
 # Title.
  ## CarHub
-
+- its a project that shwcase cars and their prices reay for sale 
 # project description
 CarHub is a Next.js project aimed at providing a comprehensive platform for car enthusiasts. Whether you're looking to browse through a vast collection of cars, learn about the latest automotive trends, or simply indulge in your passion for automobiles, CarHub has got you covered.
 
@@ -14,8 +14,9 @@ A computer that runs on either of the following; (Windows 7+, Linux, Mac OS) nod
 - vs code
 - 3 folders
     - index.html
-    - script.js
+    - Next.js
     - main.js
+    - typescript
 # Built with
 - HTML5
 - CSS (Grid, flexbox and custom properties)
@@ -32,7 +33,7 @@ A computer that runs on either of the following; (Windows 7+, Linux, Mac OS) nod
 
 - git clone:
 
-        git@github.com:Darylcosm0/car site 
+        git@github.com:Darylcosm0/car-site
 
 - change directory to the repo folder:
 

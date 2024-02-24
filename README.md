@@ -52,11 +52,6 @@ Hurray! You are one step closer to being as intelligent as Einstein.
 - on your vs code, open it with live server to display the website.
 # link to live server
         https://
-# What I learned
-- Performing JS logic in JS template literals
-- Custom routing
-- CSS tricks like multiple class selectors
-
 
 # Author
 - DARYL MUTAI
